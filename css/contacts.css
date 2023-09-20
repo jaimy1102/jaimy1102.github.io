@@ -16,3 +16,13 @@ h1 {
     font-size: 40px;
 }
 
+body {
+    background: url("MonkeyMeadow_No_UI.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}   
+
+
+
+
